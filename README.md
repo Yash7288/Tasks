@@ -1,2 +1,2 @@
 # Tasks
-This repo contains the tasks which I did for various campus commitments and coding
+This repo contains the tasks which I did for learning coding like projects and all other stuff.
